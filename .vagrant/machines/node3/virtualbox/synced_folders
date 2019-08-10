@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/share":{"guestpath":"/home/vagrant/share","hostpath":"D:/vagrant_projects/vagrant_projects_00/sharefolders/node3","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/vagrant_projects/vagrant_projects_00","disabled":false,"__vagrantfile":true}}}
